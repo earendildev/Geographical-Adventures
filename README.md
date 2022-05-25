@@ -1,3 +1,7 @@
+A geography game by [SebLague](https://github.com/SebLague/Geographical-Adventures)
+
+----
+
 # Geographical Adventures
 A little work-in-progress geography game about delivering packages to different countries around the world. </br>
 Made in the Unity game engine.
