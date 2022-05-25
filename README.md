@@ -1,4 +1,4 @@
-A geography game by [SebLague](https://github.com/SebLague/Geographical-Adventures)
+A geography game courtesy [SebLague](https://github.com/SebLague/Geographical-Adventures)
 
 ----
 
